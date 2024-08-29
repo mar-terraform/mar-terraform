@@ -1,0 +1,1 @@
+ec2size = "t2.micro"
